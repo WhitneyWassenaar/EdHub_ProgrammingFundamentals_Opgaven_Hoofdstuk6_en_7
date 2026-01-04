@@ -1,7 +1,7 @@
 # EdHub 
 # Programming Fundamentals Opgaven Hoofdstuk 6 en 7
 
-De repository bevat een verzameling van opgaven uit de EdHub.
+De repository bevat een verzameling van opgaven uit de EdHub, lessen en online tutorials.
 
 ## Inhoud
 Er wordt geoefend met lists, slicing en tuples
