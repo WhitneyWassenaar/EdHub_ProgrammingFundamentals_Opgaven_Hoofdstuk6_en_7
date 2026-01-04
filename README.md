@@ -37,6 +37,6 @@ Er wordt geoefend met lists, slicing, dictionaries en tuples
 - Als je een key in een print statement plaatst, dan wordt de value weergegeven.
 
 # sorted()
-- Je kunt op key of op value sorteren met ```studenten = sorted(studenten, key=lambda x: x[1], reverse=True)```
+- Je kunt op key of op value sorteren. Bijvoorbeeld:  ```studenten = sorted(studenten, key=lambda x: x[1], reverse=True)```
 ## Informatie over het project
 Dit is een EdHUb opdracht uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool NOVI.
