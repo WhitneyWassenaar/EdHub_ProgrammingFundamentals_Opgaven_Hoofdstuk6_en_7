@@ -4,7 +4,7 @@
 De repository bevat een verzameling van opgaven uit de EdHub, lessen en online tutorials.
 
 ## Inhoud
-Er wordt geoefend met lists, slicing en tuples
+Er wordt geoefend met lists, slicing, dictionaries en tuples
 
 
 ## Korte samenvatting van wat ik heb geleerd
